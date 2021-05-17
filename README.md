@@ -1,9 +1,9 @@
 # SDK-IOS-Abx.Remastered-CocoaPod-Dev
 
 [![CI Status](https://img.shields.io/travis/mike-igaw/SDK-IOS-Abx.Remastered-CocoaPod-Dev.svg?style=flat)](https://travis-ci.org/mike-igaw/SDK-IOS-Abx.Remastered-CocoaPod-Dev)
-[![Version](https://img.shields.io/cocoapods/v/SDK-IOS-Abx.Remastered-CocoaPod-Dev.svg?style=flat)](https://cocoapods.org/pods/SDK-IOS-Abx.Remastered-CocoaPod-Dev)
-[![License](https://img.shields.io/cocoapods/l/SDK-IOS-Abx.Remastered-CocoaPod-Dev.svg?style=flat)](https://cocoapods.org/pods/SDK-IOS-Abx.Remastered-CocoaPod-Dev)
-[![Platform](https://img.shields.io/cocoapods/p/SDK-IOS-Abx.Remastered-CocoaPod-Dev.svg?style=flat)](https://cocoapods.org/pods/SDK-IOS-Abx.Remastered-CocoaPod-Dev)
+[![Version](https://img.shields.io/cocoapods/v/AdBrixRemasteredDev.svg?style=flat)](https://cocoapods.org/pods/AdBrixRemasteredDev)
+[![License](https://img.shields.io/cocoapods/l/AdBrixRemasteredDev.svg?style=flat)](https://cocoapods.org/pods/AdBrixRemasteredDev)
+[![Platform](https://img.shields.io/cocoapods/p/AdBrixRemasteredDev.svg?style=flat)](https://cocoapods.org/pods/AdBrixRemasteredDev)
 
 ## Example
 
@@ -17,7 +17,7 @@ SDK-IOS-Abx.Remastered-CocoaPod-Dev is available through [CocoaPods](https://coc
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SDK-IOS-Abx.Remastered-CocoaPod-Dev'
+pod 'AdBrixRemasteredDev'
 ```
 
 ## Author
